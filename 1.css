@@ -1,0 +1,15 @@
+body{
+    background-color: #F2DEBA;
+    margin: auto;
+    display: block;
+    width: auto;
+    
+  }
+  img{
+    border-radius: 50%;
+  }
+  hr{
+    border-style:dashed;
+    color: black;
+    width:7%;
+  }
